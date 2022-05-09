@@ -1,4 +1,4 @@
-### Hello world! Welcome to my profile, I'm Larissa Paiva 🙃
+### Hello world! Welcome to my profile, I'm Larissa Paiva 😄
 
 <div align="center">
   <a href="https://github.com/laripaiva">
